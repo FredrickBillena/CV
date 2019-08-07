@@ -155,3 +155,7 @@ a:hover {
   font-size:.75rem;
   margin: 0;
 }
+
+.email {
+  text-decoration: underline;
+}
