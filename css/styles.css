@@ -69,13 +69,13 @@ a:hover {
 }
 .top-cloud {
   position: absolute;
-  right: 18.75rem;
-  top: 3.125rem;
+  right: 300px;
+  top: 50px;
 }
 .bottom-cloud {
   position:absolute;
-  left: 18.75rem;
-  top: 22rem;
+  left: 300px;
+  top: 352px;
 }
 .mountain {
   position:relative;
